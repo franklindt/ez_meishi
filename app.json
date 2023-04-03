@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "ez_meishi",
+    "slug": "ez_meishi",
+    "version": "1.0.0",
+    "sdkVersion": "48.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "android": {
+      "package": "com.anonymous.ez_meishi"
+    }
+  }
+}
